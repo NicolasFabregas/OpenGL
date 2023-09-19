@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Part10-Lighting_5_Spot", "Part10-Lighting_Spot.vcxproj", "{7F89A2E8-755B-4630-A76E-6EC7796898F3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Part10-Lighting_3_Dir", "Part10-Lighting_Dir.vcxproj", "{7E422481-E6E0-445B-A180-D715C6B68F0D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Part10-Lighting_2_Materials", "Part10-Lighting_Materials.vcxproj", "{5C8758E2-E92C-49DC-968A-CAE0D9C38408}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Part10-Lighting_6_Multiple_Lights", "Part10-Lighting_Multiple_Lights.vcxproj", "{003D6D6D-D1C1-44C5-B116-52E99ECBD68B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Part10-Lighting_1_Phong", "Part10-Lighting_Phong.vcxproj", "{2DB1968A-22D7-4A0B-8FC3-FACF2725F342}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Part10-Lighting_4_Point", "Part10-Lighting_Point.vcxproj", "{DCD00AB0-B193-43A8-B577-E3A7502603B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F89A2E8-755B-4630-A76E-6EC7796898F3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7F89A2E8-755B-4630-A76E-6EC7796898F3}.Debug|Win32.Build.0 = Debug|Win32
+		{7F89A2E8-755B-4630-A76E-6EC7796898F3}.Release|Win32.ActiveCfg = Release|Win32
+		{7F89A2E8-755B-4630-A76E-6EC7796898F3}.Release|Win32.Build.0 = Release|Win32
+		{7E422481-E6E0-445B-A180-D715C6B68F0D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7E422481-E6E0-445B-A180-D715C6B68F0D}.Debug|Win32.Build.0 = Debug|Win32
+		{7E422481-E6E0-445B-A180-D715C6B68F0D}.Release|Win32.ActiveCfg = Release|Win32
+		{7E422481-E6E0-445B-A180-D715C6B68F0D}.Release|Win32.Build.0 = Release|Win32
+		{5C8758E2-E92C-49DC-968A-CAE0D9C38408}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5C8758E2-E92C-49DC-968A-CAE0D9C38408}.Debug|Win32.Build.0 = Debug|Win32
+		{5C8758E2-E92C-49DC-968A-CAE0D9C38408}.Release|Win32.ActiveCfg = Release|Win32
+		{5C8758E2-E92C-49DC-968A-CAE0D9C38408}.Release|Win32.Build.0 = Release|Win32
+		{003D6D6D-D1C1-44C5-B116-52E99ECBD68B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{003D6D6D-D1C1-44C5-B116-52E99ECBD68B}.Debug|Win32.Build.0 = Debug|Win32
+		{003D6D6D-D1C1-44C5-B116-52E99ECBD68B}.Release|Win32.ActiveCfg = Release|Win32
+		{003D6D6D-D1C1-44C5-B116-52E99ECBD68B}.Release|Win32.Build.0 = Release|Win32
+		{2DB1968A-22D7-4A0B-8FC3-FACF2725F342}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2DB1968A-22D7-4A0B-8FC3-FACF2725F342}.Debug|Win32.Build.0 = Debug|Win32
+		{2DB1968A-22D7-4A0B-8FC3-FACF2725F342}.Release|Win32.ActiveCfg = Release|Win32
+		{2DB1968A-22D7-4A0B-8FC3-FACF2725F342}.Release|Win32.Build.0 = Release|Win32
+		{DCD00AB0-B193-43A8-B577-E3A7502603B0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DCD00AB0-B193-43A8-B577-E3A7502603B0}.Debug|Win32.Build.0 = Debug|Win32
+		{DCD00AB0-B193-43A8-B577-E3A7502603B0}.Release|Win32.ActiveCfg = Release|Win32
+		{DCD00AB0-B193-43A8-B577-E3A7502603B0}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
